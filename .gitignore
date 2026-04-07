@@ -1,0 +1,30 @@
+# General
+.env
+.env.*
+*.log
+.DS_Store
+
+# Frontend / Node
+node_modules/
+build/
+dist/
+.npm/
+
+# Backend / Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+sql_app.db
+*.sqlite3
+.pytest_cache/
+
+# IDE / Editor
+.vscode/
+.idea/
+.project/
+
+# Previous custom ignores
+documentation/
