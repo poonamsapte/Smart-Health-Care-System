@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+passlib[bcrypt]
+python-jose[cryptography]
+python-multipart
+scikit-learn
+numpy
+pandas
+apscheduler==3.10.4
+python-dotenv==1.0.0
+
